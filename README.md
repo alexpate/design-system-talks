@@ -9,3 +9,4 @@
 | Jina Bolton | Salesforce | [Designing a Design System](https://www.youtube.com/watch?v=7hYOLLO2gc4) |
 | Jesiah McCann <br> Marianne Epstein <br> Josh Trout | USA Today | [Designing a Design System for Modular Modules, and Building a Team to Build it](https://www.youtube.com/watch?v=WsfK5rccXr4) |
 | Jina Bolton | Salesforce | [Living Design Systems](https://www.youtube.com/watch?v=-CRp5Cx7NZw) |
+| Karri Saarinen | Airbnb | [Scaling design with systems](https://www.youtube.com/watch?v=TuLY1cYM57g) |
