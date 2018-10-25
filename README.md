@@ -4,8 +4,8 @@ Curated by [@alexjpate](https://twitter.com/alexjpate)
 
 > A design system is a collection of documentation on principles and best practices, that helps guide a team to build digital products. They are often embodied in UI libraries and pattern libraries, but can extend to include guides on other areas such as 'Voice and Tone'.
 
-| Speaker(s)                                                                                                                    | Link to talk                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| Talk                                                                                                                          | Speaker(s)                                                      |
+| :---------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------- |
 | [Introducing Design Systems Into Chaos](https://www.youtube.com/watch?v=FZSi1bK-BRM)                                          | Diana Mounter (GitHub)                                          |
 | [Thinking in Symbols for Universal Design](https://www.youtube.com/watch?v=z5XxgxBz3Fo)                                       | Benjamin Wilkins (Airbnb)                                       |
 | [Designing a Design System](https://www.youtube.com/watch?v=7hYOLLO2gc4)                                                      | Jina Bolton (Salesforce)                                        |
