@@ -17,6 +17,17 @@ Know a talk that isn't listed below? Feel free to create a new pull request, or 
 | [Design systems at scale](https://www.youtube.com/watch?v=kq48beOtJyc)                                                        | Sarah Federman                                                  |
 | [Design systems are for people](https://www.youtube.com/watch?v=ldCTZdyCy1k)                                                  | Jina Bolton                                                     |
 | [Design Systems, when and how much?](https://www.youtube.com/watch?v=Hx02SaL_IH0)                                             | Diana Mounter                                                   |
+| [Design systems and creativity](https://www.youtube.com/watch?v=BmrDrW93Knw)                                                  | Jina Anne                                                       |
+| [How to Foster Participation](https://www.youtube.com/watch?v=6xZHHHgTt9A)                                                    | Inayaili de León                                                |
+| [Design Systems for the Rest of Us](https://www.youtube.com/watch?v=60tmvBW1kfc)                                              | Siddharth Kshetrapal                                            |
+| [Minimising Complexity](https://www.youtube.com/watch?v=cG8ysSVdd5c)                                                          | Kellie Matheson <br> Richard Hallows                            |
+| [You've Built a Design System - Now What?](https://www.youtube.com/watch?v=MPr4DrNIeKQ)                                       | Bethany Sonefeld                                                |
+| [Accessibility in the GOV.UK Design System](https://www.youtube.com/watch?v=OeyMEDPnPcE)                                      | Nick Colley                                                     |
+| [Design Systems at Deliveroo: Learnings and Frustrations](https://www.youtube.com/watch?v=6C0yvuWJc84)                        | Raphael Guilleminot <br> Matt Vagni                             |
+| [Your Design System has a Heart](https://www.youtube.com/watch?v=j4tiAW2GQHM)                                                 | Hana Lodhi <br> Antonas Deduchovas                              |
+| [Delivering Flexible Cross Platform Design Systems](https://www.youtube.com/watch?v=LuZBzaAWtTE)                              | Charlie Robbins                                                 |
+| [Design Systems at Scale](https://www.youtube.com/watch?v=BltrdvKsrsM)                                                        | Sarah Federman                                                  |
+| [Design System APIs and the Developer Experience](https://www.youtube.com/watch?v=hftvh9SNEZQ)                                | Diana Mounter                                                   |
 
 ## Other resources
 
